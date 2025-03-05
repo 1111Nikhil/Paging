@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.img {
+  width: 180px;
+  height: 150px;
+}
+
+.Card {
+  border: 1px solid black;
+  width: 200px;
+  margin: 2px;
+}
+.Cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Pageno {
+  display: inline;
+  margin: 3px;
+}
